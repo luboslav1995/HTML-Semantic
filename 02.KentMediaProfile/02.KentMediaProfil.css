@@ -1,0 +1,30 @@
+.main-contain {
+    width: 95%;
+    height: 350px;
+    background: #FFA9D4;
+    border-radius: 5px;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 0px;
+}
+section {
+    display: inline-block;
+    width: 30%;
+}
+.second {
+    vertical-align: top;
+}
+embed {
+    height: 105px;
+    width: 280px;
+}
+audio {
+    width: 280px;
+}
+.third {
+    float: right;
+}
+video {
+    width: 370px;
+}

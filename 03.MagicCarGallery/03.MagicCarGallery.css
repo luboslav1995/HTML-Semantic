@@ -1,0 +1,40 @@
+.main-content {
+    width: 400px;
+    height: 230px;
+    background-color: black;
+    border-radius: 5px;
+}
+h1 {
+    text-align: center;
+    color: orange;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+iframe {
+    width: 150px;
+    height: 150px;
+    border: 1px solid orange;
+    display: inline-block;
+}
+h2 {
+    color: white;
+    padding: 0px;
+}
+section {
+    display: inline-block;
+    margin: 15px;
+}
+ul {
+    display: inline-block;
+    float: top;
+    font-style: italic;
+    font-size: 23px;
+    margin-top: 7px;
+}
+ul li {
+    margin-top: 5px;
+}
+ul a {
+    text-decoration: none;
+    color: white
+}
